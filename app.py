@@ -463,4 +463,5 @@ This is the start — built with focus, courage, and consistency. 🚀
 
 st.text_area("Copy & post this (Facebook / LinkedIn)", caption, height=140)
 
-st.caption("If you want: I can add background music, a countdown, a confetti reveal, and a downloadable certificate image.")
+st.caption("2026:by dilki")
+
